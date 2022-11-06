@@ -1,1 +1,1 @@
-Carousell project.
+Carousell connections project.
