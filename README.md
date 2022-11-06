@@ -1,1 +1,1 @@
-# carousell-thing
+Carousell project.
