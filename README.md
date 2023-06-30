@@ -1,1 +1,1 @@
-Carousell connections project.
+Essentially a glorified web scraping project.
